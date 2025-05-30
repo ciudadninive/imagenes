@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 800 500"
+   version="1.1"
+   id="svg156"
+   sodipodi:docname="ComportamientoHumano.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview158"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.05"
+     inkscape:cx="428.57143"
+     inkscape:cy="250.47619"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg156"
+     showguides="false" />
+  <!-- Fondo -->
+  <rect
+     width="800"
+     height="500"
+     fill="#f8f9fa"
+     id="rect2" />
+  <!-- Título principal -->
+  <text
+     x="400"
+     y="25"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="18"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text4">
+    Comportamiento Humano - Factores e Interacciones
+  </text>
+  <text
+     x="400"
+     y="45"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#7f8c8d"
+     id="text6">
+    Parte II: Manifestaciones Conductuales y Factores Influyentes
+  </text>
+  <!-- Conexión desde la primera parte -->
+  <!-- Flecha de continuidad -->
+  <!-- COMPORTAMIENTOS RESULTANTES - Panel central expandido -->
+  <rect
+     x="194.28572"
+     y="70"
+     width="440"
+     height="300"
+     fill="#ecf0f1"
+     stroke="#34495e"
+     stroke-width="3"
+     rx="15"
+     id="rect18" />
+  <text
+     x="431.42856"
+     y="91.190475"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text20">COMPORTAMIENTOS RESULTANTES</text>
+  <text
+     x="436.19049"
+     y="116.90476"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="11"
+     fill="#7f8c8d"
+     id="text22"
+     style="font-size:13.3333px;fill:#000000">Manifestaciones de la Comunicación Neuroendocrina</text>
+  <!-- Respuesta al estrés -->
+  <circle
+     cx="220"
+     cy="150"
+     r="12"
+     fill="#e74c3c"
+     id="circle24" />
+  <text
+     x="250"
+     y="157"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text26">RESPUESTA AL ESTRÉS</text>
+  <text
+     x="249.04762"
+     y="172.95238"
+     font-family="Arial, sans-serif"
+     font-size="9px"
+     fill="#7f8c8d"
+     id="text28"
+     style="fill:#000000">• Activación fight-or-flight (cortisol, adrenalina)</text>
+  <text
+     x="250"
+     y="185"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text30"
+     style="fill:#000000">• Adaptación fisiológica y conductual</text>
+  <text
+     x="250"
+     y="198"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text32"
+     style="fill:#000000">• Modulación de la atención y alerta</text>
+  <!-- Estado de ánimo -->
+  <circle
+     cx="220"
+     cy="230"
+     r="12"
+     fill="#9b59b6"
+     id="circle34" />
+  <text
+     x="250"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text36">REGULACIÓN EMOCIONAL</text>
+  <text
+     x="250"
+     y="252"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text38"
+     style="fill:#000000">• Control del humor y motivación</text>
+  <text
+     x="250"
+     y="265"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text40"
+     style="fill:#000000">• Procesamiento afectivo (serotonina, dopamina)</text>
+  <text
+     x="250"
+     y="278"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text42"
+     style="fill:#000000">• Estabilidad emocional y bienestar</text>
+  <!-- Conducta sexual -->
+  <circle
+     cx="220"
+     cy="310"
+     r="12"
+     fill="#27ae60"
+     id="circle44" />
+  <text
+     x="250"
+     y="317"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text46">CONDUCTA SEXUAL</text>
+  <text
+     x="250"
+     y="332"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text48"
+     style="fill:#000000">• Libido y comportamiento reproductivo</text>
+  <text
+     x="250"
+     y="345"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text50"
+     style="fill:#000000">• Influencia de testosterona/estrógenos</text>
+  <!-- Plasticidad cerebral -->
+  <circle
+     cx="430"
+     cy="150"
+     r="12"
+     fill="#3498db"
+     id="circle52" />
+  <text
+     x="460"
+     y="157"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text54">PLASTICIDAD CEREBRAL</text>
+  <text
+     x="460"
+     y="172"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text56"
+     style="fill:#000000">• Neuroplasticidad y adaptación</text>
+  <text
+     x="460"
+     y="185"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text58"
+     style="fill:#000000">• Aprendizaje y formación de memoria</text>
+  <text
+     x="460"
+     y="198"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text60"
+     style="fill:#000000">• Desarrollo y mantenimiento neural</text>
+  <!-- Metabolismo -->
+  <circle
+     cx="430"
+     cy="230"
+     r="12"
+     fill="#f39c12"
+     id="circle62" />
+  <text
+     x="460"
+     y="237"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text64">CONTROL METABÓLICO</text>
+  <text
+     x="460"
+     y="252"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text66"
+     style="fill:#000000">• Regulación energética (insulina, leptina)</text>
+  <text
+     x="460"
+     y="265"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text68"
+     style="fill:#000000">• Control del peso y apetito</text>
+  <text
+     x="460"
+     y="278"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text70"
+     style="fill:#000000">• Homeostasis metabólica</text>
+  <!-- Ritmos circadianos -->
+  <circle
+     cx="430"
+     cy="310"
+     r="12"
+     fill="#34495e"
+     id="circle72" />
+  <text
+     x="460"
+     y="317"
+     font-family="Arial, sans-serif"
+     font-size="12"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text74">RITMOS CIRCADIANOS</text>
+  <text
+     x="460"
+     y="332"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text76"
+     style="fill:#000000">• Ciclos sueño-vigilia (melatonina, cortisol)</text>
+  <text
+     x="460"
+     y="345"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text78"
+     style="fill:#000000">• Sincronización temporal de funciones</text>
+  <!-- FACTORES INFLUYENTES - Panel derecho -->
+  <rect
+     x="650"
+     y="70"
+     width="130"
+     height="300"
+     fill="#fff3cd"
+     stroke="#ffc107"
+     stroke-width="3"
+     rx="10"
+     id="rect80" />
+  <text
+     x="715"
+     y="95"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="13"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text82">FACTORES</text>
+  <text
+     x="715"
+     y="110"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="13"
+     font-weight="bold"
+     fill="#2c3e50"
+     id="text84">INFLUYENTES</text>
+  <!-- Biológicos -->
+  <rect
+     x="665"
+     y="125"
+     width="18"
+     height="18"
+     fill="#e74c3c"
+     id="rect86" />
+  <text
+     x="690"
+     y="138"
+     font-family="Arial, sans-serif"
+     font-size="10"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text88">Biológicos</text>
+  <text
+     x="671.66669"
+     y="152.85715"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text90"
+     style="fill:#000000;font-size:10.66666667px">• Genética</text>
+  <text
+     x="671.66669"
+     y="164.85715"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text92"
+     style="font-size:10.6667px;fill:#000000">• Neurotransmisores</text>
+  <!-- Psicológicos -->
+  <rect
+     x="665"
+     y="175"
+     width="18"
+     height="18"
+     fill="#9b59b6"
+     id="rect94" />
+  <text
+     x="690"
+     y="188"
+     font-family="Arial, sans-serif"
+     font-size="10"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text96">Psicológicos</text>
+  <text
+     x="675.4762"
+     y="202.85715"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text98"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan472">• Cognición</tspan></text>
+  <text
+     x="675.4762"
+     y="215.80952"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text100"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan468">• Personalidad</tspan></text>
+  <!-- Sociales -->
+  <rect
+     x="665"
+     y="225"
+     width="18"
+     height="18"
+     fill="#27ae60"
+     id="rect102" />
+  <text
+     x="690"
+     y="238"
+     font-family="Arial, sans-serif"
+     font-size="10"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text104">Sociales</text>
+  <text
+     x="678.33331"
+     y="252.85715"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text106"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan553">• Cultura</tspan></text>
+  <text
+     x="677.38098"
+     y="265.80951"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text108"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan557">• Relaciones</tspan></text>
+  <!-- Ambientales -->
+  <rect
+     x="665"
+     y="275"
+     width="18"
+     height="18"
+     fill="#f39c12"
+     id="rect110" />
+  <text
+     x="690"
+     y="288"
+     font-family="Arial, sans-serif"
+     font-size="10"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text112">Ambientales</text>
+  <text
+     x="677.38098"
+     y="302.85715"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text114"
+     style="font-size:10.6667px"><tspan
+       style="font-size:10.6667px;fill:#000000"
+       id="tspan642">• Toxinas</tspan></text>
+  <text
+     x="677.38098"
+     y="317.71429"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text116"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan640">• Dieta</tspan></text>
+  <!-- Temporales -->
+  <rect
+     x="665"
+     y="325"
+     width="18"
+     height="18"
+     fill="#34495e"
+     id="rect118" />
+  <text
+     x="690"
+     y="338"
+     font-family="Arial, sans-serif"
+     font-size="10"
+     fill="#2c3e50"
+     font-weight="bold"
+     id="text120">Temporales</text>
+  <text
+     x="676.42859"
+     y="351.90475"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text122"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan727">• Edad</tspan></text>
+  <text
+     x="675.4762"
+     y="366.7619"
+     font-family="Arial, sans-serif"
+     font-size="8px"
+     fill="#7f8c8d"
+     id="text124"
+     style="font-size:10.6667px"><tspan
+       style="fill:#000000"
+       id="tspan731">• Estacionalidad</tspan></text>
+  <!-- INTERACCIÓN COMPLEJA - Panel inferior -->
+  <rect
+     x="193.59006"
+     y="378.35199"
+     width="444.24847"
+     height="91.8675"
+     fill="#e8f5e8"
+     stroke="#28a745"
+     stroke-width="2.56107"
+     rx="7.6156878"
+     id="rect126" />
+  <text
+     x="419.04761"
+     y="400.71429"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="15px"
+     font-weight="bold"
+     fill="#155724"
+     id="text128">🔄 INTERACCIÓN BIOPSICOSOCIAL COMPLEJA 🔄</text>
+  <text
+     x="420.95239"
+     y="416.90475"
+     text-anchor="middle"
+     font-family="Arial, sans-serif"
+     font-size="11px"
+     fill="#155724"
+     id="text130"
+     style="font-size:13.3333px">El comportamiento humano emerge de la integración dinámica entre:</text>
+  <text
+     x="214.28571"
+     y="434.7619"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     fill="#155724"
+     id="text132">• Sistema neuroendocrino (comunicación química)</text>
+  <text
+     x="214.28571"
+     y="450.57144"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     fill="#155724"
+     id="text134">• Factores ambientales y socioculturales</text>
+  <text
+     x="450.4762"
+     y="434.76193"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     fill="#155724"
+     id="text136">• Procesos psicológicos y cognitivos</text>
+  <text
+     x="450.4762"
+     y="453.42856"
+     font-family="Arial, sans-serif"
+     font-size="10px"
+     fill="#155724"
+     id="text138">• Adaptación continua al entorno</text>
+  <!-- Conexiones entre factores y comportamientos -->
+  <!-- Flechas bidireccionales -->
+  <!-- Definición de marcadores -->
+  <defs
+     id="defs152">
+    <marker
+       id="arrowhead2"
+       markerWidth="10"
+       markerHeight="8"
+       refX="10"
+       refY="4"
+       orient="auto">
+      <polygon
+         points="0 0, 10 4, 0 8"
+         fill="#17a2b8"
+         id="polygon146" />
+    </marker>
+    <marker
+       id="arrowhead3"
+       markerWidth="8"
+       markerHeight="6"
+       refX="8"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="0 0, 8 3, 0 6"
+         fill="#28a745"
+         id="polygon149" />
+    </marker>
+  </defs>
+  <!-- Referencias -->
+  <text
+     x="50"
+     y="485"
+     font-family="Arial, sans-serif"
+     font-size="9"
+     fill="#7f8c8d"
+     id="text154">
+    Referencias: Redolar (2010) • Arnsten (2009) • Krugers, Hoogenraad  Groc (2010)
+  </text>
+</svg>
